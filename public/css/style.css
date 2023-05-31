@@ -1,0 +1,10 @@
+
+.szotarTabla {
+    margin: auto;
+}
+
+.szotarSor {
+    border: 1px, black solid;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+}
